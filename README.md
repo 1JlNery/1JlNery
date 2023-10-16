@@ -1,4 +1,4 @@
-- Olá!!! sou Gustavo Nery tenho 18 anos e atualmente estou fazendo faculdade de ciencia da computação na unip
+- Olá!!! sou Gustavo Nery tenho 18 anos e atualmente estou fazendo faculdade de Ciencias da computação na unip
 - Estou interresado em começar a atuar dentro do mercado de programação
 - Estou estudando atualmente: Pyton, SQL, HTML, CSS, C e JavaScript
 - meu email de contato: nery.gustavob@gmail.com 
