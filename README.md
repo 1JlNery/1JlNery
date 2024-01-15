@@ -1,5 +1,5 @@
 ### Olá sou Gustavo Nery
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 - 🎓 Estudo ciência da computação, atualmente no 3ºsemestre
 - 🔭 Estou atualmente buscando minha primeira experiencia profisional
 - 🌱 Estou estudando atualmente CSS/HTML/JavaScript/Python
@@ -27,5 +27,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
------------------------------------------------------------------------------------------------------------------------------------------------
