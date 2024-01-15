@@ -1,5 +1,6 @@
 ### Olá sou Gustavo Nery
 
+- 🎓 Estudo ciência da computação, atualmente no 3-semestre
 - 🔭 Estou atualmente buscando minha primeira experiencia profisional
 - 🌱 Estou estudando atualmente CSS/HTML/JavaScript/Python
 - 📫 me contate: nery.gustavob@gmail.com 
