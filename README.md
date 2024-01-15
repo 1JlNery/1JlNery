@@ -1,4 +1,4 @@
-<b> ### Olá sou Gustavo Nery <b>
+<b>###Olá sou Gustavo Nery<b>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 - 🎓 Estudo ciência da computação, atualmente no 3ºsemestre
 - 🔭 Estou atualmente buscando minha primeira experiencia profisional
