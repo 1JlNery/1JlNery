@@ -3,7 +3,8 @@
 - 🎓 Estudo ciência da computação, atualmente no 3ºsemestre
 - 🔭 Estou atualmente buscando minha primeira experiencia profisional
 - 🌱 Estou estudando atualmente CSS/HTML/JavaScript/Python
-- 📫 me contate: nery.gustavob@gmail.com 
+- 📫 me contate: nery.gustavob@gmail.com
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
   <a href="https://github.com/1JlNery">
