@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/1JlNery">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1JlNery&show_icons=true&theme=dracula&include_all_commits" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div>
 
