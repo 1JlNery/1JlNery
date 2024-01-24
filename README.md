@@ -24,6 +24,6 @@
   </a>
   
   <a href="https://www.linkedin.com/in/gustavo-barros-98a819214/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   </a>
 </div>
