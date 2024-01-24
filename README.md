@@ -22,8 +22,4 @@
   <a href="mailto:nery.gustavob@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/gustavo-barros-98a819214/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg />
-  </a>
 </div>
