@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 - 🎓 Estudo ciência da computação, atualmente no 3ºsemestre
 - 🔭 Estou atualmente buscando minha primeira experiência profisional
-- 🌱 Estou estudando atualmente <b>CSS/HTML/JavaScript/Python<b>
+- 🌱 Estou estudando atualmente <b>CSS/HTML/JavaScript/Python/SQL<b>
 - 📫 me contate: nery.gustavob@gmail.com
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
