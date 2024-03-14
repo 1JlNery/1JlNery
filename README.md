@@ -16,6 +16,7 @@
   <img align="center" alt="Dev-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Dev-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
   <img align="center" alt="Dev-Py" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Dev-Py" height="35" width="50" src="https://github.com/1JlNery/1JlNery/assets/131605869/6313ff4e-9669-45ea-8f5e-58b5780d6168"/>
 </div>
 <br>
 <div>
