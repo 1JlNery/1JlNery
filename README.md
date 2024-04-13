@@ -12,7 +12,7 @@
 </div>
 
 
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
 <b> My Technology</b>
 <br>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
@@ -20,8 +20,8 @@
 </div>
 <br>
 
-<div style="display: inline_block">
-<div align="center"><b>Contato</b></div>
+<div align="center">
+<b>Contato</b>
 <br>
   <a href="mailto:nery.gustavob@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
