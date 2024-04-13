@@ -12,7 +12,7 @@
 </div>
 
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
 <b> My Technology</b>
 <br>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
