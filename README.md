@@ -11,8 +11,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div>
 
+<p My Technology/>
 <div style="display: inline_block"><br>
-
 <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=light https://skillicons.dev"/> 
 </div>
 <br>
