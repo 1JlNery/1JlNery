@@ -14,7 +14,7 @@
 
 <b> My Technology<b>
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark https://skillicons.dev"/> 
+<img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark&perline=3 https://skillicons.dev"/> 
 </div>
 <br>
 <div>
