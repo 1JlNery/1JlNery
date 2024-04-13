@@ -13,8 +13,10 @@
 
 
 <div style="display: inline_block"><br>
-<b> My Technology<b>
-<img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/> 
+My Technology
+<br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
+  <br>
 </div>
 <br>
 <div>
