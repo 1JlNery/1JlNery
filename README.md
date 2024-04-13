@@ -21,7 +21,7 @@
 <br>
 
 <div style="display: inline_block">
-<b>Contato</b>
+<div align="center"><b>Contato</b></div>
 <br>
   <a href="mailto:nery.gustavob@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
