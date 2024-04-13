@@ -19,8 +19,11 @@
   <br>
 </div>
 <br>
-<div><br>
+<div>
+Contato
+<br>
   <a href="mailto:nery.gustavob@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
   </a>
+<br>
 </div>
