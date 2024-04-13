@@ -13,7 +13,7 @@
 
 
 <div style="display: inline_block"><br>
-<b></b>## My Technology</b>
+<b> My Technology</b>
 <br>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
   <br>
