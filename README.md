@@ -7,12 +7,6 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
-  <a href="https://github.com/1JlNery">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
-</div>  
-    
------------------------------------------------------------------------------------------------------------------------------------------------   
-<div align="center">
   <br>
     <b> My Technology</b>
   <br>
@@ -32,3 +26,10 @@
     </a>
   <br>
 </div>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------   
+
+<div align="center">
+  <a href="https://github.com/1JlNery">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
+</div> 
