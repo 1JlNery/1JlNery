@@ -20,7 +20,7 @@
 </div>
 <br>
 <div>
-Contato
+<b>Contato</b>
 <br>
   <a href="mailto:nery.gustavob@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
