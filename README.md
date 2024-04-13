@@ -19,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
     <b>Contato</b>
   <br>
