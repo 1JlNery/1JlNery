@@ -1,4 +1,4 @@
-<b>### Olá sou Gustavo Nery<b>
+<b>### Olá sou Gustavo Nery</b>
 -----------------------------------------------------------------------------------------------------------------------------------------------
 - 🎓 Estudo ciência da computação, atualmente no 3ºsemestre
 - 🔭 Estou atualmente buscando minha primeira experiência profisional
@@ -13,13 +13,13 @@
 
 
 <div style="display: inline_block"><br>
-My Technology
+<b></b>## My Technology</b>
 <br>
   <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
   <br>
 </div>
 <br>
-<div>
+<div><br>
   <a href="mailto:nery.gustavob@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
   </a>
