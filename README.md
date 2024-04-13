@@ -11,6 +11,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div>  
 -----------------------------------------------------------------------------------------------------------------------------------------------
+    
 <div align="center">
   <br>
     <b> My Technology</b>
@@ -18,6 +19,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
 </div>
 -----------------------------------------------------------------------------------------------------------------------------------------------
+
 <div align="center">
     <b>Contato</b>
   <br>
