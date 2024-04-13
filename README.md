@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme+light https://skillicons.dev"/> 
+<img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=light https://skillicons.dev"/> 
 </div>
 <br>
 <div>
