@@ -18,7 +18,7 @@
 </div>
 <br>
 <div>
-  <a href="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev"">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
   </a>
 </div>
