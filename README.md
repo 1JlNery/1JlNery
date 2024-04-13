@@ -12,13 +12,13 @@
 
 <div align="center">
   <br>
-    <b> My Technology</b>
+    <b> My Technology </b>
   <br>
     <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
 </div>
 
 <div align="center">
-    <b>Contato</b>
+    <b> Contact me </b>
   <br>
     <a>
     <a href="mailto:nery.gustavob@gmail.com">
