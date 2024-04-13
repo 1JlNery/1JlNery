@@ -18,7 +18,7 @@
 </div>
 <br>
 <div>
-  <a href="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev">
+  <a href="malito:nery.gustavob@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev" />
   </a>
 </div>
