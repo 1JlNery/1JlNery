@@ -19,7 +19,8 @@
   <br>
 </div>
 <br>
-<div>
+
+<div style="display: inline_block">
 <b>Contato</b>
 <br>
   <a href="mailto:nery.gustavob@gmail.com">
