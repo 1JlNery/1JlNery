@@ -21,5 +21,5 @@
     </a>
     <a href="https://www.linkedin.com/in/gustavo-nery-98a819214/">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark https://skillicons.dev"/>
-    </a>>
+    </a>
 </div>
