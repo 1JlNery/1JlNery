@@ -14,7 +14,7 @@
   <br>
     <b style="font-size: 36px; font-weight: bold;"> My Technology </b>
   <br>
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark& https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,py,git&theme=dark& https://skillicons.dev"/>
 </div>
 
 <div align="center">
