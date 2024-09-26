@@ -1,10 +1,10 @@
-<h1 align = "left"><b>Olá sou Gustavo Nery</b>
------------------------------------------------------------------------------------------------------------------------------------------------
-- 🎓 Estudo ciência da computação, atualmente no 3ºsemestre
-- 🔭 Estou atualmente buscando minha primeira experiência profisional
-- 🌱 Estou estudando atualmente <b>CSS/HTML/JavaScript/Python/JAVA</b> focando no mundo de desenvolvimento do python
-- 📫 me contate: nery.gustavob@gmail.com
------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align = "left"><b>Olá sou Gustavo Nery</b></h1>
+<ul>
+  <li>🎓 Estudo ciência da computação, atualmente no 4ºsemestre</li>
+  <li>🌱 Estou estudando atualmente <b>CSS/HTML/JavaScript/Python/JAVA</b> focando no mundo de desenvolvimento do python</li> 
+  <li>📫 me contate: nery.gustavob@gmail.com</li>
+</ul>
+
 <div align="center">
   <a href="https://github.com/1JlNery">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
