@@ -6,7 +6,7 @@
 </ul>
 
 <h2 align="center"> 💾	Tech Skills 💾</h2>
-<div align="left">
+<div align="center">
   <a href="https://github.com/1JlNery">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div> 
