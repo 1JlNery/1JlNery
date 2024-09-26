@@ -6,13 +6,13 @@
 </ul>
 
 <h2 align="center"> 💾	Tech Skills 💾</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,java,py,git&theme=dark& https://skillicons.dev"/>
-</p>
 <div align="left">
   <a href="https://github.com/1JlNery">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div> 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,java,py,git&theme=dark& https://skillicons.dev"/>
+</p>
 
 <h2 align="left">📭 Contato 📭</h2>
     <a href="mailto:nery.gustavob@gmail.com">
