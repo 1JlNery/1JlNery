@@ -10,7 +10,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div> 
 
-<h2 align="left">💻 Tech Skills</h2>
+<h2 align="left"> 💾	 Tech Skills 💾</h2>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,html,css,java,py,git&theme=dark& https://skillicons.dev"/>
 </p>
