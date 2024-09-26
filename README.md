@@ -14,8 +14,8 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,java,py,git&theme=dark& https://skillicons.dev"/>
 </p>
 
-<h2 align="center">📭 Contato 📭</h2>
-<div align="center"
+<h2 align="left">📭 Contato 📭</h2>
+<div align="left"
     <a href="mailto:nery.gustavob@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev"/>
     </a>
