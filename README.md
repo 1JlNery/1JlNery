@@ -15,9 +15,11 @@
 </p>
 
 <h2 align="center">📭 Contato 📭</h2>
+<div align="center"
     <a href="mailto:nery.gustavob@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark  https://skillicons.dev"/>
     </a>
     <a href="https://www.linkedin.com/in/gustavo-nery-98a819214/">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark https://skillicons.dev"/>
     </a>
+</div>
