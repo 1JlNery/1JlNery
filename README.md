@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java,py,git&theme=dark& https://skillicons.dev"/>
 </div>
 
-<div align="center">
+<div align="gride">
     <b style="font-size: 36px; font-weight: bold;"> Contact me </b>
   <br>
     <a href="mailto:nery.gustavob@gmail.com">
