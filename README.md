@@ -11,7 +11,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1JlNery&layout=compact&langs_count=7&theme=dra" />
 </div> 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,git,mysql&theme=dark& https://skillicons.dev"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,c,git&theme=dark& https://skillicons.dev"/>
 </p>
 
 <h2 align="left">📭 Contato 📭</h2>
